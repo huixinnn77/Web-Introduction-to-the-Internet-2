@@ -26,8 +26,10 @@
 #### 範例截圖或 Demo 說明：
 1. 整合個人網站的The Cat API專區
 <img width="1911" height="1029" alt="image" src="https://github.com/user-attachments/assets/f630ab51-50af-48c3-b8cc-6b6cffa6bcf2" />
+
 2. 輸入API後取得貓咪的照片
 <img width="925" height="874" alt="image" src="https://github.com/user-attachments/assets/5dfe004c-cf51-4eb0-8112-240d9be4751a" />
+
 3. 選擇自己like與dislike的貓咪照片進行投票，跳出彈跳視窗顯示已成功投票，並即時顯示數據
 <img width="913" height="503" alt="image" src="https://github.com/user-attachments/assets/b69dbf64-f703-4e92-9678-c049e942ed6a" />
 
