@@ -10,12 +10,15 @@
 ### 影片連結：[網際網路概論-作業三影片](https://youtu.be/9uTEPsfmH28)
 
 ### 專案簡介與功能說明：
+---
 此專案配合作業一的個人網站，加上The Cat API的產生貓咪圖片功能，並且製作一個貓咪照片投票與即時顯示的介面。
 
 ### 使用的 API（如 Gemini 或其他）：
+---
 [The Cat API](https://developers.thecatapi.com/view-account/ylX4blBYT9FaoVd6OhvR?report=gpN-ReBkp)
 
 ### 安裝與執行方式：
+---
 1. 從官網點選get api並以電子郵件寄至電子信箱
 2. 閱讀官方網站功能介紹與api使用方式
 3. 在地端vscode 安裝 npm install @thatapicompany/thecatapi
@@ -24,6 +27,7 @@
 6. npm start查看是否正確運行
 
 ### 範例截圖或 Demo 說明：
+---
 1. 整合個人網站的The Cat API專區
 <img width="1911" height="1029" alt="image" src="https://github.com/user-attachments/assets/f630ab51-50af-48c3-b8cc-6b6cffa6bcf2" />
 
